@@ -14,10 +14,6 @@ function App() {
         </a>
       </div>
       <h1>Vite + React</h1>
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae ipsa
-      consectetur accusamus, ipsum aliquid accusantium commodi est saepe
-      laborum, ipsam magni, deleniti in earum explicabo deserunt qui officia
-      maiores ut.
     </>
   );
 }
